@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "インスタントヘヴン feat.Eve / ナナヲアカリ",
+  "base_artist": "ナナヲアカリ",
+  "createdAt": "2025-12-21T10:33:52.652383Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "インスタントヘヴン",
+      "artist": "Nanawoakari feat. Eve",
+      "has_synced": false,
+      "path": "select/01_インスタントヘヴン_Nanawoakari_feat._Eve.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "インスタントヘヴン feat.Eve",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/02_インスタントヘヴン_feat.Eve_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "インスタントヘヴン feat.Eve",
+      "artist": "ナナヲアカリ (Nanawo Akari)",
+      "has_synced": true,
+      "path": "select/03_インスタントヘヴン_feat.Eve_ナナヲアカリ_(Nanawo_Akari).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "インスタントヘヴン",
+      "artist": "Nanawoakari/Eve",
+      "has_synced": true,
+      "path": "select/04_インスタントヘヴン_Nanawoakari_Eve.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "インスタントヘヴン feat.Eve",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/05_インスタントヘヴン_feat.Eve_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "インスタントヘヴン",
+      "artist": "ナナヲアカリ feat. Eve",
+      "has_synced": true,
+      "path": "select/06_インスタントヘヴン_ナナヲアカリ_feat._Eve.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "インスタントヘヴン",
+      "artist": "NANAOAKARI/Eve",
+      "has_synced": false,
+      "path": "select/07_インスタントヘヴン_NANAOAKARI_Eve.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "インスタントヘヴン",
+      "artist": "NANAOAKARI; Eve",
+      "has_synced": true,
+      "path": "select/08_インスタントヘヴン_NANAOAKARI;_Eve.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "インスタントヘヴン",
+      "artist": "ナナヲアカリ feat. Eve",
+      "has_synced": true,
+      "path": "select/09_インスタントヘヴン_ナナヲアカリ_feat._Eve.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "インスタントヘヴン",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/10_インスタントヘヴン_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "インスタントヘヴン",
+      "artist": "ナナヲアカリ feat. Eve",
+      "has_synced": true,
+      "path": "select/11_インスタントヘヴン_ナナヲアカリ_feat._Eve.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "インスタントヘヴン",
+      "artist": "Nanawo, Akari feat. Eve",
+      "has_synced": true,
+      "path": "select/12_インスタントヘヴン_Nanawo,_Akari_feat._Eve.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "インスタントヘヴン",
+      "artist": "ナナヲアカリ feat. Eve",
+      "has_synced": true,
+      "path": "select/13_インスタントヘヴン_ナナヲアカリ_feat._Eve.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "インスタントヘヴン feat. Eve",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/14_インスタントヘヴン_feat._Eve_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "インスタントヘヴン",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/15_インスタントヘヴン_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "インスタントヘヴン feat. Eve",
+      "artist": "Nanawo, Akari",
+      "has_synced": true,
+      "path": "select/16_インスタントヘヴン_feat._Eve_Nanawo,_Akari.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "インスタントヘヴン",
+      "artist": "NANAOAKARI",
+      "has_synced": true,
+      "path": "select/17_インスタントヘヴン_NANAOAKARI.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "インスタントヘヴン feat.Eve / ナナヲアカリ",
+      "artist": "Nanawoakari",
+      "has_synced": true,
+      "path": "select/18_インスタントヘヴン_feat.Eve___ナナヲアカリ_Nanawoakari.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "インスタントヘヴン - Instant Heaven (feat. Eve)",
+      "artist": "NANAOAKARI",
+      "has_synced": true,
+      "path": "select/19_インスタントヘヴン_-_Instant_Heaven_(feat._Eve)_NANAOAKARI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "インスタントヘヴン",
+      "artist": "ナナヲアカリ",
+      "has_synced": false,
+      "path": "select/pl_01_インスタントヘヴン_ナナヲアカリ.txt"
+    }
+  ]
+}
